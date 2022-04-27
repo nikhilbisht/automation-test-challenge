@@ -1,0 +1,19 @@
+PR,time,author
+Bump aws-sdk from 2.1117.0 to 2.1120.0,"Apr 25, 2022, 4:42 PM GMT+5:30",dependabot
+Bump @types/node from 17.0.25 to 17.0.26,"Apr 25, 2022, 4:40 PM GMT+5:30",dependabot
+Bump devtools-protocol from 0.0.982423 to 0.0.995510,"Apr 25, 2022, 4:38 PM GMT+5:30",dependabot
+Bump got from 11.8.3 to 12.0.4,"Apr 25, 2022, 4:37 PM GMT+5:30",dependabot
+Bump eslint from 8.13.0 to 8.14.0,"Apr 25, 2022, 4:36 PM GMT+5:30",dependabot
+Add request.performance event,"Apr 23, 2022, 3:40 AM GMT+5:30",riywo
+Fix #8007 Cucumber skipped steps not appearing in report,"Apr 22, 2022, 10:53 AM GMT+5:30",kaksjonovs
+fix: Throw error if tsconfig.json path is incorrect,"Apr 21, 2022, 10:00 PM GMT+5:30",harsha509
+System requirements specification document,"Apr 15, 2022, 8:56 PM GMT+5:30",TemirlanAidarov
+Added ability to pass capability to repl through config file : Fix for https://github.com/webdriverio/webdriverio/issues/8048,"Mar 27, 2022, 3:02 AM GMT+5:30",praveendvd
+"Add: ""this"" in hooks points to current browser object","Mar 1, 2022, 6:28 PM GMT+5:30",Antonius-S
+Fix for https://github.com/webdriverio/webdriverio/issues/7735,"Nov 25, 2021, 4:47 PM GMT+5:30",nirmalcrafty
+[Bug #7739] Fix preferScenarioName logic,"Nov 24, 2021, 12:59 AM GMT+5:30",denise-maia-ribeiro
+webdriverio: implemented Actions class,"Jul 31, 2021, 6:14 PM GMT+5:30",erwinheitzman
+ESM Compatibility,"May 4, 2021, 1:49 PM GMT+5:30",christian-bromann
+Wdio cli add new feature 6765,"Apr 29, 2021, 5:03 AM GMT+5:30",erwinheitzman
+New Crowdin updates,"Apr 22, 2021, 6:03 PM GMT+5:30",christian-bromann
+New Crowdin updates,"Mar 15, 2021, 6:35 PM GMT+5:30",christian-bromann

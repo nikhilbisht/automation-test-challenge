@@ -1,0 +1,8 @@
+{
+    "baseUrl":"https://mytheresa.com",
+    "failOnStatusCode": false,
+    "chromeWebSecurity": false,
+    "pageLoadTimeout": 15000,
+    "viewportWidth": 1920,
+    "viewportHeight": 1080
+}
