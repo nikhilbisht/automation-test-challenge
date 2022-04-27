@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "test:prod":"npx cypress run --spec 'cypress/integration/pr.spec.js' --headed --browser chrome --config-file prod-config.json"
   },
   "repository": {
     "type": "git",

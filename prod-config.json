@@ -1,0 +1,7 @@
+{
+    "extends": "./cypress.json",
+    "baseUrl": "https://www.mytheresa.com/int_en/men.html",
+    "chromeWebSecurity": false ,
+    "video":false,
+    "failOnStatusCode": false
+  }
