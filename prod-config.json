@@ -3,5 +3,12 @@
     "baseUrl": "https://www.mytheresa.com/int_en/men.html",
     "chromeWebSecurity": false ,
     "video":false,
-    "failOnStatusCode": false
+    "failOnStatusCode": false,
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "reportDir": "cypress/reports/mochawesome-report",
+        "overwrite": false,
+        "html": false,
+        "json": true
+    }
   }
